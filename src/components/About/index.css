@@ -1,0 +1,12 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 35px;
+}

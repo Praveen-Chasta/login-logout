@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+
+.login-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.button {
+  padding: 10px 20px 10px 20px;
+  cursor: pointer;
+}
